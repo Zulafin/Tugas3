@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tugas3</string>
+    <string name="kampusMerdeka">KAMPUS MERDEKA</string>
+    <string name="ruangGuru">RUANG GURU</string>
+    <string name="mobile">PEMROGRAMAN PERANGKAT MOBILE</string>
+    <string name="game">PEMROGRAMAN GAME</string>
+    <string name="text1">Pemrograman Perangkat Mobile mencakup berbagai pengetahuan dan keterampilan yang berkaitan dengan pengembangan aplikasi mobile untuk platform seperti Android dan iOS. Materi ini membahas konsep dasar pengembangan aplikasi mobile, bahasa pemrograman seperti Java, Kotlin, dan Swift, serta desain antarmuka pengguna (UI) yang menarik dan responsif. Selain itu, materi ini juga membahas penyimpanan data menggunakan SQLite atau layanan cloud, integrasi dengan fitur perangkat keras, penggunaan jaringan dan integrasi API, serta pengujian, debugging, dan proses publikasi aplikasi.</string>
+    <string name="text2">Pemrograman game adalah proses menciptakan perangkat lunak atau aplikasi yang digunakan untuk membuat, mengembangkan, dan mengontrol permainan video. Ini melibatkan penggunaan bahasa pemrograman dan alat pengembangan khusus untuk merancang dan mengimplementasikan berbagai aspek dari permainan, seperti grafik, fisika, kecerdasan buatan, suara, antarmuka pengguna, logika permainan, dan lain-lain.</string>
+</resources>
